@@ -1,0 +1,22 @@
+body {
+    color: darkblue;
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+.lijst, .toestel {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Potta One', cursive;
+    color: black;
+    font-size: 60px;
+}
+
+footer {
+    border: darkgreen solid 5px;
+    background-color: lightseagreen;
+}
